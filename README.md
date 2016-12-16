@@ -25,4 +25,4 @@ Have(Sam,Food)
 ((~Full(x))=>Hungry(x))
 
 However the result does not guarantee 100% correctness for some complex logic.
-There still might be some bug.
+There still might be some bugs.
