@@ -2,7 +2,8 @@
 ### This is an AI project using python as programming language, inplementing resolution inference algorithm to judge whether a literal can be inferred by a give set of knowledge base. 
 ### The program read file from a file whose name should be"input.txt".And the out put is in "output.txt".
 ### Format for input.txt:
-<NQ = NUMBER OF QUERIES>
+
+'/<'NQ = NUMBER OF QUERIES>
 <QUERY 1>
 ...
 <QUERY NQ>
