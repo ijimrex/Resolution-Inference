@@ -3,14 +3,14 @@
 ### The program read file from a file whose name should be"input.txt".And the out put is in "output.txt".
 ### Format for input.txt:
 
-'/<'NQ = NUMBER OF QUERIES>
-<QUERY 1>
+NQ = NUMBER OF QUERIES
+QUERY 1
 ...
-<QUERY NQ>
-<NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
-<SENTENCE 1>
+QUERY NQ
+NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE
+SENTENCE 1
 ...
-<SENTENCE NS>
+SENTENCE NS
 
 Besides,any operator and its operands will always be surrounded by a parenthesis.
 
