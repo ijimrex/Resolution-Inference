@@ -1,9 +1,0 @@
-1
-Full(Sam)
-6
-((Hungry(x)&Have(x,Food))=>Eat(x,Food))
-(Eat(x,Food)=>Full(x))
-Hungry(Sam)
-Have(Sam,Food)
-(Hungry(x)=>(~Full(x)))
-((~Full(x))=>Hungry(x))
